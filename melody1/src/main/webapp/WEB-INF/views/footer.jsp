@@ -28,19 +28,20 @@
 	integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 	crossorigin="anonymous"></script>
 	<style>
+	
 	.fa {
 	    font-size: 30px;
-	   margin-top:8%;
+	   margin-top:4%;
 	}
 	</style>
 </head>
 <body>
-	<nav class="navbar navbar-inverse navbar-static-bottom">
+	<nav class="navbar navbar-default navbar-static-bottom">
 	<div class="container">
 		<div class="row">
 			<div class="nav navbar-nav pull-left" class="col-m-6">
 
-				<p style="color: #faebd7">
+				<p style="color: #2c2c56 ;margin-top:4%">
 					copyright &copy; Melody.<a href="#">Privacy</a> <a href="#"
 						data-toggle="modal" data-target="#myModal">ContactUs</a> <a
 						href="#">Feedback 

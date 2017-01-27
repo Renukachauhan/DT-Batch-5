@@ -23,7 +23,7 @@
         <div class="form-group">
             <label for="name">Name</label>
             <form:errors path="username" cssStyle="color: #ff0000" />
-            <form:input path="username" id="username"  class="form-Control" type="text" required="true"/>
+            <form:input path="username" id="username"  class="form-Control" type="text" required="true" />
         </div>
 
         <div class="form-group">
@@ -58,7 +58,7 @@
 
         <div class="form-group">
             <label for="billingStreet">Street Name</label>
-            <form:input path="billingAddress.streetName" id="billingStreet" type="text" required="true" class="form-Control" />
+            <form:input path="billingAddress.streetName" id="billingStreet" type="text" required="true" class="form-Control"  />
         </div>
 
 

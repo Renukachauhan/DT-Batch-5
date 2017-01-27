@@ -18,10 +18,9 @@
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="Css_Container.jsp">
+
 </head>
-<body style="background-color:	#A9A9A9">
-<br>
-<br>
+<body style="background-color:#05ffe1" >
 <br>
 
 <div class="container fluid" id="container2">
@@ -35,30 +34,30 @@
 </ol>
 <div class="carousel-inner" role="listbox" id="myCarousel">
 <div class="item active">
-              <img id="slidePic" style="width:1100px;height:366px;min-width:100%;" class="img-responsive" src="<c:url value = "/resources/images/112.png" /> " alt="First slide">
+              <img id="slidePic" style="width:2000px;height:430px;min-width:100%;" class="img-responsive" src="<c:url value = "/resources/images/112.png" /> " alt="First slide">
               <div class="carousel-caption">
 <h3>Buy musical instruments, electric guitar, musical keyboard online ai 40% off</h3>
 </div>
 </div>
 <div class="item">
-<img id="slidePic" style="width:1100px;height:366px;min-width:100%;" class="img-responsive" src="<c:url value = "/resources/images/mkl.png" /> " alt="Second slide">
+<img id="slidePic" style="width:1100px;height:430px;min-width:100%;" class="img-responsive" src="<c:url value = "/resources/images/mkl.png" /> " alt="Second slide">
 <div class="carousel-caption">
 <h3>The world's most famous and popular language is music. </h3>
 </div>
 </div>
 <div class="item">
-              <img id="slidePic" style="width:1100px;height:366px;min-width:100%;" class="img-responsive" src="<c:url value = "/resources/images/ggg.png" /> "alt="Third slide">
+              <img id="slidePic" style="width:1100px;height:430px;min-width:100%;" class="img-responsive" src="<c:url value = "/resources/images/ggg.png" /> "alt="Third slide">
               <div class="carousel-caption">
 <h1>50% OFF</h1>
 </div>
 </div>
 <div class="item">
-              <img id="slidePic" style="width:1100px;height:366px;min-width:100%;"  class="img-responsive" src="<c:url value = "/resources/images/kkk.png" /> " alt="Fourth slide"><div class="carousel-caption">
+              <img id="slidePic" style="width:1100px;height:430px;min-width:100%;"  class="img-responsive" src="<c:url value = "/resources/images/kkk.png" /> " alt="Fourth slide"><div class="carousel-caption">
 <h3>The world's most famous and popular language is music</h3>
 </div>
 </div>
 <div class="item">
-              <img id="slidePic" style="width:1100px;height:366px;min-width:100%;" class="img-responsive" src="<c:url value = "/resources/images/M4.png" /> " alt="Fifth slide"><div class="carousel-caption">
+              <img id="slidePic" style="width:1100px;height:430px;min-width:100%;" class="img-responsive" src="<c:url value = "/resources/images/M4.png" /> " alt="Fifth slide"><div class="carousel-caption">
 <h3>Happy Shopping</h3>
 </div>
 </div>
@@ -80,32 +79,32 @@
 <div class="row">
 <div class="col-md-4 " >
 
-		<a class="btn btn-default col-sm-offset-8" style="background-color:	#A9A9A9"  href="<c:url value="/productForUser?searchCondition=String" />" role="button"  >
+		<a class="btn btn-default col-sm-offset-8" style="background-color:	#a3f998"  href="<c:url value="/productForUser?searchCondition=String" />" role="button"  >
 
 <img class="center-block" src="<c:url value = "/resources/images/M6.png" /> " >
 </a>
 <div class=text-right   " style="margin-right:25px;">
-<a style="text-decoration:none" href="<c:url value="/productForUser?searchCondition=cat" />">New Products</a>
+<a style="text-decoration:none" href="<c:url value="/productForUser?searchCondition=sony" />">New Products</a>
 </div>
 </div>
 
 <div class="col-md-4"  >
-		<a class="btn btn-default col-sm-offset-4"  style="background-color:	#A9A9A9"  href="<c:url value="/productForUser?searchCondition=drums" />" role="button">
+		<a class="btn btn-default col-sm-offset-4"  style="background-color:	#a3f998"  href="<c:url value="/productForUser?searchCondition=drums" />" role="button">
 <img id="onee" class="center-block" src="<c:url value = "/resources/images/M8.png" /> "  >
 </a>
 <div class=text-center " style="margin-right:25px;">
-<a style="text-decoration:none" href="<c:url value="/productForUser?searchCondition=cat" />">Drums</a>
+<a style="text-decoration:none" href="<c:url value="/productForUser?searchCondition=sony" />">Drums</a>
 </div>
 </div>
 
 
 <div class="col-md-4" >
-		<a class="btn btn-default col-sm-offset-1"  style="background-color:	#A9A9A9" href="<c:url value="/productForUser?searchCondition=Accessories" />" role="button"  >
+		<a class="btn btn-default col-sm-offset-1"  style="background-color:	#a3f998" href="<c:url value="/productForUser?searchCondition=Accessories" />" role="button"  >
 
 <img class="center-block" src="<c:url value = "/resources/images/M9 (1).png" /> " >
 </a>
 <div class=text-left " style="margin-left:25px;">
-<a style="text-decoration:none" href="<c:url value="/productForUser?searchCondition=cat" />">Product Accessories</a>
+<a style="text-decoration:none" href="<c:url value="/productForUser?searchCondition=sony" />">Product Accessories</a>
 </div>
 </div>
 </div>

@@ -18,13 +18,13 @@
 <br>
 <br>
 <center><h1><b>The Melody Story</b></h1></center><br>
-<p>In 1981, seven musicians started  Music Match Limited with just US$250. From the beginning, the company was founded on the principle of building and implementing great ideas that drive progress for clients and enhance lives through enterprise solutions. For over three decades, we have been a company focused on bringing to life great ideas and enterprise solutions that drive progress for our clients.
+<p>In 1981, seven musicians started  Melody Limited with just US$250. From the beginning, the company was founded on the principle of building and implementing great ideas that drive progress for clients and enhance lives through enterprise solutions. For over three decades, we have been a company focused on bringing to life great ideas and enterprise solutions that drive progress for our clients.
 
 We recognize the importance of nurturing relationships that reflect our culture of unwavering ethics and mutual respect. It will come as no surprise, then, that 98.8 percent (Q1 FY 17) of our revenues come from existing clients.
 
- Music Match has a growing global presence with more than 197,000+ employees. Globally, we have 85 sales and marketing offices and 114 development centers as at March 31, 2016.
+ Melody has a growing global presence with more than 197,000+ employees. Globally, we have 85 sales and marketing offices and 114 development centers as at March 31, 2016.
 
-At  Music Match, we believe our responsibilities extend beyond business. That is why we established the  Music Match Foundation  to provide assistance to some of the more socially and economically depressed sectors of the communities in which we work. And that is why we behave ethically and honestly in all our interactions  with our clients, our partners and our employees.
+At  Melody, we believe our responsibilities extend beyond business. That is why we established the  Melody Foundation  to provide assistance to some of the more socially and economically depressed sectors of the communities in which we work. And that is why we behave ethically and honestly in all our interactions  with our clients, our partners and our employees.
 
 
 </p>
